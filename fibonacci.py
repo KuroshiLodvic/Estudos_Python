@@ -8,4 +8,5 @@ for i in range(0, num+1):
     a = b
     b = c
     
-    print(c, end=' ')
+
+    print(a, end=' ')
